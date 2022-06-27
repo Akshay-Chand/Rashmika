@@ -35,5 +35,5 @@ def lyrics(song):
         fin = search(song)
         text = f'**🎶 Successfully Extracted Lyrics Of {song} 🎶**\n\n'
         text += f'`{fin["lyrics"]}`'
-        text += '\n\n\n**Made By 𝙋𝙤𝙤𝙟𝙖 𝙝𝙚𝙜𝙙𝙚**'
+        text += '\n\n\n**Made By 𝗥𝗔𝗦𝗛𝗠𝗜𝗞𝗔**'
         return text
