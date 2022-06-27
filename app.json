@@ -17,7 +17,7 @@
       "inline"
     ],
     "website": "https://github.com/tezzarobot/Pooja-Hegde",
-    "repository": "https://github.com/tezzarobot/pooja-Hegde",
+    "repository": "https://github.com/Akshay-Chand/pooja-Hegde",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
