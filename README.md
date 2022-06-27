@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗥𝗔𝗦𝗛𝗠𝗜𝗞𝗔+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝗥𝗠_𝗦𝗧𝗨𝗗𝗜𝗢𝗦𝗭+𝗕𝗢𝗧!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥+𝗕𝗢𝗧!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
-  <img src="https://te.legra.ph/file/19ed7a6de18057bdb6f60.jpg" alt="MKN BOTZ LOGO">
+  <img src="https://telegra.ph/file/cf1a9362643ec3375589d.jpg" alt="MKN BOTZ LOGO">
 </p>
 <h1 align="center">
   <b> 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐁𝐎𝐓</b>
@@ -14,6 +14,15 @@
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
 [![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
+## ⚠️ ALERT ⚠️
+<b>
+Guyzz Githubil നിന്നും വേറെ ഒരാളുടെ repo edit ചെയ്യുന്നവരുടെ ശ്രദ്ധിക്കുക ⚠️
+ഏത് link മാറ്റിയാലും source cod മാറ്റരുത് 🙏 oru repo ഉണ്ടാക്കുന്നത് അത്ര simple
+അല്ല ഒരുപാട് കഷ്ടപ്പാട് ഉണ്ട് എന്നിട്ടും അത് public ക്കായി നിങ്ങൾക്ക് താരുന്നു 🥺
+അതിന്റെ നന്ദി എങ്കിലും കാണിച്ചുകൂടെ 🙏  ഞാൻ തന്നെ രാത്രി 2 മണി വരെ
+ഇരുന്ന് ആണ് ഓരോ errorum fix ചെയ്യുന്നത്  അപ്പോൾ oru ബോട്ടിന്റെ repo
+ഉണ്ടാക്കാൻ എത്ര കഷ്ടപ്പാട് ഉണ്ടാകും ദയവു ചെയ്യത് credits & source cod വെക്കുക 🙏🥺
+</b>
 
 ## Features
 
@@ -53,7 +62,7 @@
 
 ## Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tezzarobot/pooja-hegde)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/Professor-bot)
 
 ## Commands
 ```
@@ -87,6 +96,10 @@
 
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
+
+## Spacial Thanks To
+
+* [⚡️𝐀𝐚𝐝𝐡𝐢⚡️](https://github.com/Aadhi000)
 
 ## TELAGRAM SUPPORT 
 
