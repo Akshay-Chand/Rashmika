@@ -5,7 +5,7 @@ class script(object):
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: <a href=https://t.me/RM_AutoFilterBot>𝚁𝙰𝚂𝙷𝙼𝙸𝙺𝙰 𝙼𝙰𝙽𝙳𝙰𝙽𝙽𝙰👸</a>
 <b>✮ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Akshay_Chand>𝙰𝙺𝚂𝙷𝙰𝚈 𝙲𝙷𝙰𝙽𝙳 ❤️</a>
-<b>✮ 𝙰𝙳𝙼𝙸𝙽: <a href=https://t.me/Roxy_695>𝚁𝙾𝚇𝚈 💌</a>
+<b>✮ 𝙰𝙳𝙼𝙸𝙽: <a href=https://t.me/Legend_695>𝙻𝚎𝚐𝚎𝚗𝚍 𝚁𝚘𝚌𝚔𝚢 💌</a>
 <b>✮ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>
 <b>✮ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</b>
 <b>✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙱𝙾𝚃-𝙳𝙱</b>
@@ -16,7 +16,7 @@ class script(object):
 <b>✮ 𝚁𝙰𝚂𝙷𝙼𝙸𝙺𝙰 𝙼𝙰𝙽𝙳𝙰𝙽𝙽𝙰 𝙽𝙾𝚃 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃
 <b>✮ ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ɢᴇᴛ ᴛʜᴇ ʙᴏᴛ ᴍᴀᴅᴇ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ᴏᴡɴᴇʀ ᴏʀ ᴀᴅᴍɪɴ
 <b>✮ 𝙾𝚆𝙽𝙴𝚁: <a href=https://t.me/Akshay_Chand>𝙰𝙺𝚂𝙷𝙰𝚈 𝙲𝙷𝙰𝙽𝙳 💌</a>
-<b>✮ 𝙰𝙳𝙼𝙸𝙽: <a href=https://t.me/Roxy_695>𝚁𝙾𝚇𝚈 💌</a>
+<b>✮ 𝙰𝙳𝙼𝙸𝙽: <a href=https://t.me/Legend_695>𝙻𝚎𝚐𝚎𝚗𝚍 𝚁𝚘𝚌𝚔𝚢 💌</a>
 <b>✮ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂: <a href=https://t.me/RM_STUDIOSZ><b>𝚁𝙼 sᴛᴜᴅɪᴏs😊</b></a>"""
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
@@ -32,7 +32,7 @@ class script(object):
 
 <code>/batch https://t.me/RM_STUDIOSZ/1 https://t.me/RM_STUDIOSZ/5</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Roxy_695><b></b>💘𝚁𝙾𝚇𝚈💘</a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Legend_695><b></b>💘𝙻𝚎𝚐𝚎𝚗𝚍 𝚁𝚘𝚌𝚔𝚢💘</a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 •/whois :-give a user full details"""
@@ -69,7 +69,7 @@ Note:- Give a user details
 
 𝚆𝙾𝚁𝙺𝚂 𝙾𝙽𝙻𝚈 𝙾𝙽 𝙶𝚁𝙾𝚄𝙿
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/Roxy_695>💘𝚁𝙾𝚇𝚈💘</a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/Legend_695>💘𝙻𝚎𝚐𝚎𝚗𝚍 𝚁𝚘𝚌𝚔𝚢💘</a>"""
     PIN_TXT ="""<b>PIN MODULE</b>
 <b>𝙿𝙸𝙽 𝙰 𝙼𝙴𝚂𝚂𝙰𝙶𝙴../</b>
 
