@@ -820,7 +820,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('𝙿𝚄𝚁𝙶𝙴', callback_data='purges'),
             InlineKeyboardButton('𝙿𝙸𝙽𝙶', callback_data='pings'),            
-            InlineKeyboardButton('📊 𝚂𝚃𝙰𝚃𝚄𝚂 📊', callback_data='stats')
+            InlineKeyboardButton('𝚂𝚃𝙰𝚃𝚄𝚂 📊', callback_data='stats')
             ],[
             InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start'),
             InlineKeyboardButton('⏭️ 𝙽𝙴𝚇𝚃 ⏭️', callback_data='mkn')
@@ -858,13 +858,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)       
         await query.message.edit_text(
-            text="⦿"
+            text="💝"
         )
         await query.message.edit_text(
-            text="⦿⦿⦿"
+            text="💘💝💖"
         )
         await query.message.edit_text(
-            text="⦿⦿⦿⦿⦿⦿⦿"
+            text="💘💝💖🤍♥️🧡💛"
         )
         await query.message.edit_text(                     
             text=script.HELP_TXT.format(query.from_user.mention),
@@ -880,13 +880,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
-            text="⦿"
+            text="💝"
         )
         await query.message.edit_text(
-            text="⦿⦿⦿"
+            text="💖💝💘"
         )
         await query.message.edit_text(
-            text="⦿⦿⦿⦿⦿⦿⦿"
+            text="💘💝💖🤍♥️🧡💛"
         ) 
         await query.message.edit_text(
             text=script.ABOUT_TXT.format(temp.B_NAME),
