@@ -6,6 +6,7 @@ class script(object):
     ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: <a href=https://t.me/RM_AutoFilterBot>𝚁𝙰𝚂𝙷𝙼𝙸𝙺𝙰 𝙼𝙰𝙽𝙳𝙰𝙽𝙽𝙰👸</a>
 <b>✮ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Akshay_Chand>𝙰𝙺𝚂𝙷𝙰𝚈 𝙲𝙷𝙰𝙽𝙳 ❤️</a>
 <b>✮ 𝙰𝙳𝙼𝙸𝙽: <a href=https://t.me/Legend_695>𝙻𝚎𝚐𝚎𝚗𝚍 𝚁𝚘𝚌𝚔𝚢 💌</a>
+<b>✮ 𝙰𝙳𝙼𝙸𝙽 2: <a href=https://t.me/Yogesh_Gund>𝚈𝙾𝙶𝙴𝚂𝙷 𝙶𝚄𝙽𝙳 💝</a>
 <b>✮ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>
 <b>✮ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</b>
 <b>✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙱𝙾𝚃-𝙳𝙱</b>
