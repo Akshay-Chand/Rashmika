@@ -48,7 +48,9 @@ async def start(client, message):
             ],[      
             InlineKeyboardButton('💘 HELP 💘 ', callback_data='help'),
             InlineKeyboardButton('😉 ABOUT 😉 ', callback_data='about')
-       ]]  
+            ],[
+            InlineKeyboardButton('💝 GROUP 💝', url='https://t.me/+CG7AQS6IfUNhYTNl')
+        ]]  
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action("Typing")
         m=await message.reply_sticker("CAACAgUAAxkBAAIFNGJSlfOErbkSeLt9SnOniU-58UUBAAKaAAPIlGQULGXh4VzvJWoeBA") 
@@ -92,6 +94,8 @@ async def start(client, message):
             ],[      
             InlineKeyboardButton('💘 HELP 💘 ', callback_data='help'),
             InlineKeyboardButton('😉 ABOUT 😉 ', callback_data='about')
+            ],[
+            InlineKeyboardButton('💝 GROUP 💝', url='https://t.me/+CG7AQS6IfUNhYTNl')
        ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action("Typing")
