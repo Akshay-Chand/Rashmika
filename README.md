@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝐑𝐀𝐒𝐇𝐌𝐈𝐊𝐀+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝐑𝐌+𝐒𝐓𝐔𝐃𝐈𝐎!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
-  <img src="https://telegra.ph/file/6a2be14f9fc82382bf178.jpg" alt="MKN BOTZ LOGO">
+  <img src="https://te.legra.ph/file/30b024d67ee4a165e504b.jpg" alt="MKN BOTZ LOGO">
 </p>
 <h1 align="center">
   <b> Rashmika bot</b>
@@ -80,7 +80,7 @@
 • /ban  - to ban a user.
 • /unban  - to unban a user.
 • /channel - to get list of total connected channels
-• /broadcast - to broadcast a message to all Eva Maria users
+• /broadcast - to broadcast a message to all Rashmika users
 ```
 
 ## Original Repo
