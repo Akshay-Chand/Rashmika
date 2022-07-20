@@ -763,6 +763,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[      
             InlineKeyboardButton('💘 HELP 💘 ', callback_data='help'),
             InlineKeyboardButton('😉 ABOUT 😉 ', callback_data='about')
+            ],[
+            InlineKeyboardButton('💝 GROUP 💝', url='https://t.me/+CG7AQS6IfUNhYTNl')
        ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -886,7 +888,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start'),
             InlineKeyboardButton('🔐 𝙲𝙻𝙾𝚂𝙴 🔐', callback_data='close_data')
-        ]]]
+        ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text="⊙"
