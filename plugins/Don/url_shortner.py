@@ -5,10 +5,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InlineQue
 from pyrogram.handlers import MessageHandler
 from pyshorteners import Shortener
 
-BITLY_API = os.environ.get("BITLY_API", "8df1df8c23f719e5cf97788cc2d40321ea30092b")
-CUTTLY_API = os.environ.get("CUTTLY_API", "f64dffbde033b6c307387dd50b7c76e505f1c")
-SHORTCM_API = os.environ.get("SHORTCM_API", "pk_...NIZv")
-GPLINKS_API = os.environ.get("GPLINKS_API", "008ccaedd6061ad1948838f410947603de9007a7")
+ADRINOLINKS_API = os.environ.get("ADRINOLINKS_API", "5cef8c7193e4df00d04324313f406f9302922530")
 
 reply_markup = InlineKeyboardMarkup(
         [[
@@ -148,7 +145,7 @@ async def short(link):
     try:
         s = Shortener()
         url = s.tinyurl.short(link)
-        shorten_urls += f"\n**TinyURL.com :-** {url}"
+        shorten_urls += f"\n**AdrinoLinks.in :-** {url}"
     except Exception as error:
         print(f"TinyURL.com error :- {error}")
     
@@ -162,8 +159,8 @@ async def short(link):
     
     # GPLinks shorten
     try:
-        api_url = "https://gplinks.in/api"
-        params = {'api': GPLINKS_API, 'url': link}
+        api_url = "https://AdrinoLinks.in/api"
+        params = {'api': ADRINOLINKS_API, 'url': link}
         async with aiohttp.ClientSession() as session:
             async with session.get(api_url, params=params, raise_for_status=True) as response:
                 data = await response.json()
